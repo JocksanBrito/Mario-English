@@ -4,7 +4,7 @@
     Api de reconhecimento de voz com javascript
 </h1>
 
-<h4 align="center">SUPER MARIO ENGLISH CHALLENGE</h4> 
+<h4 align="center">SUPER MARIO ENGLISH CHALLENGE - 01</h4> 
 </br>
   <p align="center">Jogo do super mario para responder o nome das cores em inglês usando a API de reconhecimento de voz</p>
 
@@ -37,11 +37,11 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## :wrench: Como Utilizar
 
-Clone essa aplicação utilizando o [Git](https://git-scm.com) e utilizando os seguintes comandos:
+Clone essa aplicação utilizando o [Git](https://github.com/JocksanBrito/Mario-English.git) e utilizando os seguintes comandos:
 
 ```bash
 # Clonando esse repositório
-$ git clone https://github.com/felipeAguiarCode/jogo-mario.git
+$ git clone https://github.com/JocksanBrito/Mario-English.git
 ```
 Em seguida execute o arquivo 'index.html' no seu navegador
 
@@ -49,8 +49,8 @@ Em seguida execute o arquivo 'index.html' no seu navegador
 ## :memo: Licença 
 This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) for more information.
 
-## Autor
+## QUEM REFEZ ESSE PROJETO? 
 
-| [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
+| [<img src="https://avatars.githubusercontent.com/u/66786677?v=4"><br><sub>Jocksan de Brito - GitHub</sub>](https://github.com/JocksanBrito/Mario-English) |
 | :---: |
-|[Linkedin](www.linkedin.com/in/felipe-aguiar-047)|
+|[Linkedin]((https://www.linkedin.com/in/jocksan-brito/))|
